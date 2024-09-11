@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilyapatis24/js_npm"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyapatis24/js_npm/issues"
+  },
+  "homepage": "https://github.com/ilyapatis24/js_npm#readme"
+}
